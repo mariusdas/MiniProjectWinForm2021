@@ -1,0 +1,10 @@
+C:\Users\Marius\source\repos\WinFormMariusBudrauskas2021\WinFormMariusBudrauskas2021\obj\Debug\WinFormMariusBudrauskas2021.MainForm.resources
+C:\Users\Marius\source\repos\WinFormMariusBudrauskas2021\WinFormMariusBudrauskas2021\obj\Debug\WinFormMariusBudrauskas2021.DialogForm.resources
+C:\Users\Marius\source\repos\WinFormMariusBudrauskas2021\WinFormMariusBudrauskas2021\obj\Debug\WinFormMariusBudrauskas2021.Properties.Resources.resources
+C:\Users\Marius\source\repos\WinFormMariusBudrauskas2021\WinFormMariusBudrauskas2021\obj\Debug\WinFormMariusBudrauskas2021.csproj.GenerateResource.cache
+C:\Users\Marius\source\repos\WinFormMariusBudrauskas2021\WinFormMariusBudrauskas2021\obj\Debug\WinFormMariusBudrauskas2021.csproj.CoreCompileInputs.cache
+C:\Users\Marius\source\repos\WinFormMariusBudrauskas2021\WinFormMariusBudrauskas2021\bin\Debug\WinFormMariusBudrauskas2021.exe.config
+C:\Users\Marius\source\repos\WinFormMariusBudrauskas2021\WinFormMariusBudrauskas2021\bin\Debug\WinFormMariusBudrauskas2021.exe
+C:\Users\Marius\source\repos\WinFormMariusBudrauskas2021\WinFormMariusBudrauskas2021\bin\Debug\WinFormMariusBudrauskas2021.pdb
+C:\Users\Marius\source\repos\WinFormMariusBudrauskas2021\WinFormMariusBudrauskas2021\obj\Debug\WinFormMariusBudrauskas2021.exe
+C:\Users\Marius\source\repos\WinFormMariusBudrauskas2021\WinFormMariusBudrauskas2021\obj\Debug\WinFormMariusBudrauskas2021.pdb
